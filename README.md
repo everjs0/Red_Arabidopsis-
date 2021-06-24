@@ -1,2 +1,2 @@
 # Red_Arabidopsis-
-Para obtener este gen, ingresé a Genemania en donde se obtuvo la red que aparece aquí. 
+Para obtener el gen PEI1, ingresé a Genemania en donde se obtuvo la red que aparece aquí. 
